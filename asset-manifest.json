@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/devlights-tarea-pedida-1/static/css/main.10038447.css",
+    "main.js": "/devlights-tarea-pedida-1/static/js/main.5fd964b3.js",
+    "static/media/backgroundBlack.png": "/devlights-tarea-pedida-1/static/media/backgroundBlack.df03cdb13083527c838e.png",
+    "static/media/backgroundBlue.png": "/devlights-tarea-pedida-1/static/media/backgroundBlue.91e910969abdaaee0f9a.png",
+    "index.html": "/devlights-tarea-pedida-1/index.html",
+    "main.10038447.css.map": "/devlights-tarea-pedida-1/static/css/main.10038447.css.map",
+    "main.5fd964b3.js.map": "/devlights-tarea-pedida-1/static/js/main.5fd964b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10038447.css",
+    "static/js/main.5fd964b3.js"
+  ]
+}
